@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Qasim 👋
 
-<!--
-**QasimRafiq/QasimRafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software & Mobile Developer | TypeScript · React Native · React
 
-Here are some ideas to get you started:
+🔭 I'm currently building projects in React Native and React
+<br/>
+🌱 Always learning new tools across the JS/TS ecosystem
+<br/>
+💬 Ask me about mobile apps, React Native, or frontend dev
+<br/>
+📫 Reach me via my GitHub profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+
+![Qasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=QasimRafiq&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QasimRafiq&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QasimRafiq&theme=tokyonight&hide_border=true)
