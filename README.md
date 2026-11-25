@@ -1,16 +1,10 @@
-## Hi, I'm Qasim 👋
+### Hey, I'm Qasim
 
-🚀 Software & Mobile Developer | TypeScript · React Native · React
+I build things mostly with TypeScript, React and React Native. Still figuring out the exact mix of stuff I want to focus on, but mobile and frontend work is where most of my time goes right now.
 
-🔭 I'm currently building projects in React Native and React
-<br/>
-🌱 Always learning new tools across the JS/TS ecosystem
-<br/>
-💬 Ask me about mobile apps, React Native, or frontend dev
-<br/>
-📫 Reach me via my GitHub profile
+Feel free to check out my repos below or reach out if you want to collaborate on something.
 
-### 🛠️ Tech Stack
+**Stack I use often:**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -19,8 +13,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
+<br/>
 
 ![Qasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=QasimRafiq&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QasimRafiq&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QasimRafiq&theme=tokyonight&hide_border=true)
+
